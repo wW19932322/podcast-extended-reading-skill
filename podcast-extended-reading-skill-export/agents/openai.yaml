@@ -1,0 +1,4 @@
+interface:
+  display_name: "Podcast Extended Reading"
+  short_description: "Anchor podcast reading to sources"
+  default_prompt: "Use $podcast-extended-reading to turn this podcast into anchored extended reading, then link it to another field with sourced explanations and confidence ratings."

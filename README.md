@@ -2,8 +2,7 @@
 
 > Turn one podcast episode into anchored, source-linked, cross-domain knowledge units organized around your own way of thinking.
 
-`podcast-extended-reading` 是一个面向个人知识库建设的 Codex skill。  
-它不是把播客“总结一下”，也不是帮你真的去搭一个数据库，而是把播客内容加工成一组可追溯、可检索、可扩展、可跨领域联想的知识单元，让你的资料更贴近你自己的思考模式，并天然兼容后续的向量化检索方式。
+`podcast-extended-reading` 的目的是让我像向量数据库一样去思考跨领域的问题，找出多领域的共同点，构建自己的知识树干，以下readme由AI生成
 
 ## Why
 
